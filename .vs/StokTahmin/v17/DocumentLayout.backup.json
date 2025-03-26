@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\StokTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\StokTahmin.csproj|solutionrelative:stoktahmin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\MainForm.cs",
+              "RelativeDocumentMoniker": "StokTahmin\\MainForm.cs",
+              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\MainForm.cs",
+              "RelativeToolTip": "StokTahmin\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:22:15.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
