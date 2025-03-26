@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/syeCb2Lds=",
+  "dgSpecHash": "AhPQsBlw0uY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\StokTahmin.csproj",
+  "projectFilePath": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\TalepTahmin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\omerc\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

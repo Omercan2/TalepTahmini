@@ -1672,9 +1672,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\StokTahmin.csproj",
-      "projectName": "StokTahmin",
-      "projectPath": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\StokTahmin.csproj",
+      "projectUniqueName": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\TalepTahmin.csproj",
+      "projectName": "TalepTahmin",
+      "projectPath": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\TalepTahmin.csproj",
       "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\obj\\",
       "projectStyle": "PackageReference",
