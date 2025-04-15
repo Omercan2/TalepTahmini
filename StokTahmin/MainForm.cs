@@ -1,3 +1,5 @@
+using TalepTahmin;
+
 namespace StokTahmin
 {
     public partial class MainForm : Form
@@ -36,6 +38,12 @@ namespace StokTahmin
         {
             TedarikTahminiForm tedarikTahminiForm = new TedarikTahminiForm();
             tedarikTahminiForm.ShowDialog();
+        }
+
+        private void BtnUrunSil_Click(object sender, EventArgs e)
+        {
+            UrunSilForm urunSilForm = new UrunSilForm();
+            urunSilForm.ShowDialog();
         }
     }
 }

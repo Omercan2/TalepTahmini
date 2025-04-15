@@ -32,11 +32,12 @@
             BtnStokGuncelle = new Button();
             BtnTedarikTahmini = new Button();
             BtnYeniUrun = new Button();
+            BtnUrunSil = new Button();
             SuspendLayout();
             // 
             // BtnSiparisGir
             // 
-            BtnSiparisGir.Location = new Point(287, 75);
+            BtnSiparisGir.Location = new Point(306, 37);
             BtnSiparisGir.Name = "BtnSiparisGir";
             BtnSiparisGir.Size = new Size(164, 54);
             BtnSiparisGir.TabIndex = 0;
@@ -46,7 +47,7 @@
             // 
             // BtnStokGuncelle
             // 
-            BtnStokGuncelle.Location = new Point(287, 210);
+            BtnStokGuncelle.Location = new Point(306, 172);
             BtnStokGuncelle.Name = "BtnStokGuncelle";
             BtnStokGuncelle.Size = new Size(164, 69);
             BtnStokGuncelle.TabIndex = 1;
@@ -56,7 +57,7 @@
             // 
             // BtnTedarikTahmini
             // 
-            BtnTedarikTahmini.Location = new Point(287, 135);
+            BtnTedarikTahmini.Location = new Point(306, 97);
             BtnTedarikTahmini.Name = "BtnTedarikTahmini";
             BtnTedarikTahmini.Size = new Size(164, 69);
             BtnTedarikTahmini.TabIndex = 3;
@@ -66,7 +67,7 @@
             // 
             // BtnYeniUrun
             // 
-            BtnYeniUrun.Location = new Point(287, 285);
+            BtnYeniUrun.Location = new Point(306, 247);
             BtnYeniUrun.Name = "BtnYeniUrun";
             BtnYeniUrun.Size = new Size(164, 69);
             BtnYeniUrun.TabIndex = 4;
@@ -74,11 +75,22 @@
             BtnYeniUrun.UseVisualStyleBackColor = true;
             BtnYeniUrun.Click += BtnYeniUrun_Click;
             // 
+            // BtnUrunSil
+            // 
+            BtnUrunSil.Location = new Point(306, 322);
+            BtnUrunSil.Name = "BtnUrunSil";
+            BtnUrunSil.Size = new Size(164, 69);
+            BtnUrunSil.TabIndex = 5;
+            BtnUrunSil.Text = "Ürün Silme";
+            BtnUrunSil.UseVisualStyleBackColor = true;
+            BtnUrunSil.Click += BtnUrunSil_Click;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(BtnUrunSil);
             Controls.Add(BtnYeniUrun);
             Controls.Add(BtnTedarikTahmini);
             Controls.Add(BtnStokGuncelle);
@@ -95,5 +107,6 @@
         private Button BtnStokGuncelle;
         private Button BtnTedarikTahmini;
         private Button BtnYeniUrun;
+        private Button BtnUrunSil;
     }
 }

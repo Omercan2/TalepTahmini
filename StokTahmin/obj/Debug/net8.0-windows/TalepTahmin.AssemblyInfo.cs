@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalepTahmin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9517e3a8d56b7e471da76b78360a48794e8127cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d613e1016dec01e96c63ab5f008182b8998cf1d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalepTahmin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalepTahmin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
