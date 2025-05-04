@@ -21,9 +21,18 @@ namespace StokTahmin
         int eskiMiktar = 0;
         private void BtnStoguGuncelle_Click(object sender, EventArgs e)
         {
+            if (!int.TryParse(tbxMiktar.Text, out int yeniMiktar))
+            {
+                MessageBox.Show("Lütfen miktar alanına sadece tam sayı girin!", "Geçersiz Giriş", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!decimal.TryParse(tbxFiyat.Text, out decimal fiyat))
+            {
+                MessageBox.Show("Lütfen fiyat alanına sadece sayısal bir değer girin!", "Geçersiz Giriş", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             string urunAdi = CboxUrunAdı.Text;
-            int yeniMiktar = Convert.ToInt32(tbxMiktar.Text);
-            decimal fiyat = Convert.ToDecimal(tbxFiyat.Text);
             DateTime guncellemeTarihi = dtpTarih.Value;
 
             string connectionString = MainForm.sqlBaglanti; // Veritabanı bağlantısı

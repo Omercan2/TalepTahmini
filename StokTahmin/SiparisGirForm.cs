@@ -21,9 +21,19 @@ namespace StokTahmin
        
         private void BtnSiparis_Click(object sender, EventArgs e)
         {
+            if (!int.TryParse(tbxMiktar.Text, out int siparisMiktari))
+            {
+                MessageBox.Show("Lütfen miktar alanına sadece tam sayı girin!", "Geçersiz Giriş", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!decimal.TryParse(tbxFiyat.Text, out decimal fiyat))
+            {
+                MessageBox.Show("Lütfen fiyat alanına sadece sayısal bir değer girin!", "Geçersiz Giriş", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             string urunAdi = CboxUrunAdı.Text;
-            string miktarMetin = tbxMiktar.Text;
-            int siparisMiktari = (miktarMetin.All(char.IsDigit) && miktarMetin != "") ? Convert.ToInt32(miktarMetin) : -1;
+            
             DateTime siparisTarihi = dtpTarih.Value;
 
             if (siparisMiktari <= 0)

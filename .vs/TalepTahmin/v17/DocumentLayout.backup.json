@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\urunsilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\urunsilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\urunsilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\urunsilform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\yeniurunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\yeniurunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\stokguncelleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\stokguncelleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\siparisgirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\siparisgirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\siparisgirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\stoktahmin\\siparisgirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\siparisgirform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|c:\\users\\omerc\\desktop\\ranaodev\\taleptahmini\\stoktahmin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{68A5C48A-3001-438A-B959-4A9C451F723E}|StokTahmin\\TalepTahmin.csproj|solutionrelative:stoktahmin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,49 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UrunSilForm.cs",
-              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\UrunSilForm.cs",
-              "RelativeDocumentMoniker": "StokTahmin\\UrunSilForm.cs",
-              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\UrunSilForm.cs",
-              "RelativeToolTip": "StokTahmin\\UrunSilForm.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwJMAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "StokGuncelleForm.cs",
+              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\StokGuncelleForm.cs",
+              "RelativeDocumentMoniker": "StokTahmin\\StokGuncelleForm.cs",
+              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\StokGuncelleForm.cs",
+              "RelativeToolTip": "StokTahmin\\StokGuncelleForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T08:03:08.012Z",
+              "WhenOpened": "2025-05-04T12:26:54.408Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UrunSilForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\UrunSilForm.cs",
-              "RelativeDocumentMoniker": "StokTahmin\\UrunSilForm.cs",
-              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\UrunSilForm.cs [Design]",
-              "RelativeToolTip": "StokTahmin\\UrunSilForm.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StokTahmin\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "StokTahmin\\LoginForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:53:42.551Z",
+              "WhenOpened": "2025-05-04T12:44:00.525Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\LoginForm.cs",
+              "RelativeDocumentMoniker": "StokTahmin\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\LoginForm.cs*",
+              "RelativeToolTip": "StokTahmin\\LoginForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:43:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YeniUrunForm.cs",
+              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\YeniUrunForm.cs",
+              "RelativeDocumentMoniker": "StokTahmin\\YeniUrunForm.cs",
+              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\YeniUrunForm.cs",
+              "RelativeToolTip": "StokTahmin\\YeniUrunForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:30:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\Program.cs",
+              "RelativeDocumentMoniker": "StokTahmin\\Program.cs",
+              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\Program.cs",
+              "RelativeToolTip": "StokTahmin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:43:45.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SiparisGirForm.cs",
               "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\SiparisGirForm.cs",
               "RelativeDocumentMoniker": "StokTahmin\\SiparisGirForm.cs",
               "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\SiparisGirForm.cs",
               "RelativeToolTip": "StokTahmin\\SiparisGirForm.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAgwGsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T08:02:46.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SiparisGirForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\SiparisGirForm.cs",
               "RelativeDocumentMoniker": "StokTahmin\\SiparisGirForm.cs",
@@ -85,31 +129,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T08:01:32.335Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\MainForm.cs",
-              "RelativeDocumentMoniker": "StokTahmin\\MainForm.cs",
-              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\MainForm.cs [Design]",
-              "RelativeToolTip": "StokTahmin\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:50:12.259Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\MainForm.cs",
-              "RelativeDocumentMoniker": "StokTahmin\\MainForm.cs",
-              "ToolTip": "C:\\Users\\omerc\\Desktop\\RanaOdev\\TalepTahmini\\StokTahmin\\MainForm.cs",
-              "RelativeToolTip": "StokTahmin\\MainForm.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwC0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T14:22:15.37Z",
-              "EditorCaption": ""
             }
           ]
         }

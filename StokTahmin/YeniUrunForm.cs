@@ -20,9 +20,19 @@ namespace StokTahmin
 
         private void BtnYeniUrun_Click(object sender, EventArgs e)
         {
+            if (!int.TryParse(tbxMiktar.Text, out int miktar))
+            {
+                MessageBox.Show("Lütfen miktar alanına sadece tam sayı girin!", "Geçersiz Giriş", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            if (!decimal.TryParse(tbxFiyat.Text, out decimal fiyat))
+            {
+                MessageBox.Show("Lütfen fiyat alanına sadece sayısal bir değer girin!", "Geçersiz Giriş", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             string urunAdi=TbxUrunAdi.Text;
-            int miktar = Convert.ToInt32( tbxMiktar.Text);
-            decimal fiyat =Convert.ToDecimal( tbxFiyat.Text);
+
 
             // Veritabanı bağlantı dizesini MainForm.sqlBaglanti'dan alıyoruz
             string connectionString = MainForm.sqlBaglanti;

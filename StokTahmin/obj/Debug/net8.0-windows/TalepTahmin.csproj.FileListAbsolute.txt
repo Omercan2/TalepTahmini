@@ -68,3 +68,4 @@ C:\Users\omerc\Desktop\RanaOdev\TalepTahmini\StokTahmin\obj\Debug\net8.0-windows
 C:\Users\omerc\Desktop\RanaOdev\TalepTahmini\StokTahmin\obj\Debug\net8.0-windows\TalepTahmin.genruntimeconfig.cache
 C:\Users\omerc\Desktop\RanaOdev\TalepTahmini\StokTahmin\obj\Debug\net8.0-windows\ref\TalepTahmin.dll
 C:\Users\omerc\Desktop\RanaOdev\TalepTahmini\StokTahmin\obj\Debug\net8.0-windows\TalepTahmin.UrunSilForm.resources
+C:\Users\omerc\Desktop\RanaOdev\TalepTahmini\StokTahmin\obj\Debug\net8.0-windows\TalepTahmin.LoginForm.resources
